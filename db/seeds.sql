@@ -1,10 +1,10 @@
 USE burgers_db;
 
 INSERT INTO burgers (burger_name, devoured)
-VALUES ("Bitchin Burger", false);
+VALUES ("She's a Super Leek Burger", false);
 
 INSERT INTO burgers (burger_name, devoured)
-VALUES ("Every Day Bro Burger", false);
+VALUES ("Foot Feta-ish Burger", false);
 
 INSERT INTO burgers (burger_name, devoured)
-VALUES ("Fupa Burger", false);
+VALUES ("Jack-O-Lentil Burger", false);
